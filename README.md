@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FFB3&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Vitaly+👋;Full+XR+Developer+(VR/AR/MR/WebAR);Unity+C%23+Programmer;Blockchain+%26+Game+Dev+Enthusiast;Steam+%26+Oculus+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FFB3&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Vitaly+👋;Full+XR+Developer+(VR/AR/MR/WebAR);Unity+C%23+Programmer;Blockchain+%26+Game+Dev+Enthusiast;Steam+%26+Oculus+Developer" alt="Typing SVG">
 </p>
 
 ---
@@ -41,20 +41,32 @@
 
 ---
 
+## 🎮 Steam Profile
+<p align="center">
+  <a href="https://steamcommunity.com/id/vitalycarli/">
+    <img src="https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Platform | Description |
+|---------|----------|-------------|
+| **VR Fantasy Adventure** | [Steam](https://steamcommunity.com/id/vitalycarli/) | Immersive fantasy VR experience with magic & combat. |
+| **Oculus Training Simulator** | Oculus Store (link pending) | Realistic VR training for industry safety & procedures. |
+| **WebAR Retail Experience** | WebAR Demo (link pending) | Interactive AR shopping experience accessible via browser. |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Valinerosgordov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valinerosgordov&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valinerosgordov&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Valinerosgordov&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
-
-
 
 ---
 
@@ -78,5 +90,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+![GitHub Snake Light](https://raw.githubusercontent.com/Valinerosgordov/Valinerosgordov/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Valinerosgordov/Valinerosgordov/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Valinerosgordov&color=brightgreen" alt="Profile
+  <img src="https://komarev.com/ghpvc/?username=Valinerosgordov&color=brightgreen" alt="Profile views"/>
+</p>
+
+*"Virtual reality is not the future — it's the present we're building."* 🚀
