@@ -1,6 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FFB3&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Vitaly+👋;Full+XR+Developer+(VR/AR/MR/WebAR);Unity+C%23+Programmer;Blockchain+%26+Game+Dev+Enthusiast;Steam+%26+Oculus+Developer" alt="Typing SVG">
+  <img src="./banner.png" alt="Valinerosgordov — XR Developer" width="1000">
+</p>
+
+<!-- Typing line (optional, looks nice under the banner) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFB3&center=true&vCenter=true&width=800&lines=Full+XR+Developer+(VR%2FAR%2FMR%2FWebAR);Unity+C%23+Programmer;Steam+%26+Oculus+Developer" alt="Typing SVG">
 </p>
 
 ---
@@ -33,7 +38,7 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 **Microsoft Technological Challenge UK** — Winner in AR/VR category  
+- 🥇 **Microsoft Technological Challenge UK** — Winner in AR/VR  
 - 🥇 **Udacity High School Challenge** — Winner (UK)  
 - 🥇 **Cambridge Computer Science Challenge** — Best VR project  
 - 🥇 **Hack University** — Best AR/VR project  
@@ -55,8 +60,8 @@
 | Project | Platform | Description |
 |---------|----------|-------------|
 | **VR Fantasy Adventure** | [Steam](https://steamcommunity.com/id/vitalycarli/) | Immersive fantasy VR experience with magic & combat. |
-| **Oculus Training Simulator** | Oculus Store (link pending) | Realistic VR training for industry safety & procedures. |
-| **WebAR Retail Experience** | WebAR Demo (link pending) | Interactive AR shopping experience accessible via browser. |
+| **Oculus Training Simulator** | Oculus Store (soon) | Realistic VR training for industry safety & procedures. |
+| **WebAR Retail Experience** | WebAR Demo (soon) | Interactive AR shopping experience in the browser. |
 
 ---
 
@@ -65,17 +70,17 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Valinerosgordov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valinerosgordov&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Valinerosgordov&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Valinerosgordov&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 📌 About Me
 💡 **Full XR Developer** — building experiences across VR, AR, MR, and WebAR for any platform  
-🛠 Expertise with **Oculus**, **Microsoft HoloLens**, VR training simulators, WebAR applications, and immersive retail/real estate/engineering solutions  
-🎮 **Game Developer & Designer** — creating games for **Steam** and standalone VR/AR platforms, specializing in fantasy, sci-fi, and strategy  
+🛠 Expertise with **Oculus**, **Microsoft HoloLens**, VR training simulators, WebAR apps, and immersive retail/real-estate/engineering solutions  
+🎮 **Game Developer & Designer** — creating games for **Steam** and standalone VR/AR platforms (fantasy, sci-fi, strategy)  
 🖥 Blockchain developer: smart contracts, marketplaces, and GameFi  
-🌍 Delivered 40+ XR and game projects worldwide  
+🌍 Delivered **40+** XR and game projects worldwide  
 
 ---
 
