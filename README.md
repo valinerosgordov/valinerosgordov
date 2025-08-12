@@ -1,11 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Valinerosgordov — XR Developer" width="1000">
-</p>
-
-<!-- Typing line (optional, looks nice under the banner) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFB3&center=true&vCenter=true&width=800&lines=Full+XR+Developer+(VR%2FAR%2FMR%2FWebAR);Unity+C%23+Programmer;Steam+%26+Oculus+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FFB3&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Vitaly+👋;Full+XR+Developer+(VR/AR/MR/WebAR);Unity+C%23+Programmer;Blockchain+%26+Game+Dev+Enthusiast;Steam+%26+Oculus+Developer" alt="Typing SVG">
 </p>
 
 ---
@@ -38,7 +33,7 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 **Microsoft Technological Challenge UK** — Winner in AR/VR  
+- 🥇 **Microsoft Technological Challenge UK** — Winner in AR/VR category  
 - 🥇 **Udacity High School Challenge** — Winner (UK)  
 - 🥇 **Cambridge Computer Science Challenge** — Best VR project  
 - 🥇 **Hack University** — Best AR/VR project  
@@ -77,32 +72,4 @@
 
 ## 📌 About Me
 💡 **Full XR Developer** — building experiences across VR, AR, MR, and WebAR for any platform  
-🛠 Expertise with **Oculus**, **Microsoft HoloLens**, VR training simulators, WebAR apps, and immersive retail/real-estate/engineering solutions  
-🎮 **Game Developer & Designer** — creating games for **Steam** and standalone VR/AR platforms (fantasy, sci-fi, strategy)  
-🖥 Blockchain developer: smart contracts, marketplaces, and GameFi  
-🌍 Delivered **40+** XR and game projects worldwide  
-
----
-
-## 🌐 Connect With Me
-<p>
-  <a href="https://t.me/BlurryEclipse"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"></a>
-  <a href="https://www.linkedin.com/in/valiner/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.fiverr.com/crypto_earth?up_rollout=true"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr"></a>
-</p>
-
-📧 **Email:** vitalydoxr@gmail.com  
-
----
-
-## 🐍 Contribution Snake
-![GitHub Snake Light](https://raw.githubusercontent.com/Valinerosgordov/Valinerosgordov/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Valinerosgordov/Valinerosgordov/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Valinerosgordov&color=brightgreen" alt="Profile views"/>
-</p>
-
-*"Virtual reality is not the future — it's the present we're building."* 🚀
+🛠 Expertise with **Oculus**, **Microsoft HoloLens**, VR training simulators, WebAR applicat
