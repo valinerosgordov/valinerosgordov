@@ -50,9 +50,10 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valinerosgordov&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
   
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Valinerosgordov&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+
+  <img src="https://streak-stats.demolab.com?user=Valinerosgordov&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
