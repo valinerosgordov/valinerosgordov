@@ -32,7 +32,7 @@ I am a multidisciplinary engineer specializing in **High-Performance C# Applicat
 I am currently architecting complex solutions that go beyond standard development:
 
 * 🤖 **NexusAI (Project Assistant)**
-    * *Tech:* .NET 9, WPF, Local LLM Integration, RAG (Retrieval-Augmented Generation).
+    * *Tech:* .NET 8, WPF, Local LLM Integration, RAG (Retrieval-Augmented Generation).
     * *Goal:* Creating a desktop environment that acts as a second brain for developers.
 * 📈 **FinMarket Sync (Algo-Trading)**
     * *Tech:* C#, REST APIs, WebSocket.
@@ -55,18 +55,18 @@ I am currently architecting complex solutions that go beyond standard developmen
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valinerosgordov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valinerosgordov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=valinerosgordov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valinerosgordov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Valinerosgordov&theme=tokyonight&hide_border=true&background=0d1117" height="120" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=valinerosgordov&theme=tokyonight&hide_border=true&background=0d1117" height="120" alt="Streak"/>
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://steamcommunity.com/id/vitalycarli/">
+  <a href="https://steamcommunity.com/id/valinerosgordov/">
     <img src="https://img.shields.io/badge/Connect_on_Steam-171a21?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
 </div>
