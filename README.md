@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=A970FF&center=true&vCenter=true&width=800&lines=VITALY+GORDOV;INITIALIZING+XR+SYSTEMS...;LOADING+AI+MODULES...;EXECUTING+QUANT+ALGORITHMS..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=A970FF&center=true&vCenter=true&width=800&lines=VALINEROSGORDOV;INITIALIZING+XR+SYSTEMS...;LOADING+AI+MODULES...;EXECUTING+QUANT+ALGORITHMS..." alt="Typing SVG" />
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a0033,4d0099,A970FF,00d4ff&height=120&section=header&text=&animation=fadeIn" width="100%">
 </div>
