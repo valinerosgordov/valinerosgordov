@@ -1,79 +1,59 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Vitaly+Running+System.exe;XR+Architect+(VR%2FAR%2FMR);.NET+%26+AI+Systems+Engineer;Quant+Dev+%26+Algo-Trading" alt="Typing SVG" />
-</div>
-
----
-
-### 👨‍💻 Source Code: `Profile.cs`
-
-```csharp
-using System;
-using Universe;
-
-namespace Vitaly.Profile
-{
-    public class Engineer : IDeveloper
-    {
-        public string Name => "Vitaly";
-        public string[] Expertise => new[] { "XR Architecture", ".NET Systems", "Algo-Trading" };
-        
-        public void RunCurrentFocus()
-        {
-            // 🤖 Developing a Second Brain
-            var nexusAI = new Project("NexusAI", type: "Desktop Assistant");
-            nexusAI.Integrate(Features.LocalLLM | Features.RAG);
-            
-            // 📈 Analyzing Markets
-            var finTech = new TradingBot("FinMarket Sync");
-            finTech.Arbitrage(Exchange.MetaTrader5, Exchange.TradingView);
-            
-            while (Alive) {
-                Code();
-                Coffee();
-                Compile();
-            }
-        }
-    }
-```
-### 🛠 Technology Stack
-
-<div align="center">
-
-| **Core & Systems** | **XR & Graphics** | **AI & FinTech** |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <br> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> | <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <br> <img src="https://img.shields.io/badge/ShaderGraph-1F425F?style=for-the-badge"/> | <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/> <br> <img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white"/> | <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white"/> | <img src="https://img.shields.io/badge/MetaTrader_5-000000?style=for-the-badge&logo=metatrader&logoColor=white"/> |
-
-</div>
-
----
-
-### 🚀 Active Deployments
-
-| Project | Type | Status | Description |
-|:---|:---|:---|:---|
-| **NexusAI** | .NET / WPF | `building...` | **Personal AI OS**. Local RAG, document analysis & automation. |
-| **FinMarket Sync** | C# / API | `live` | Arbitrage system syncing **MT5** & **TradingView** data. |
-| **VR Fantasy** | Unity / XR | `shipped` | Immersive combat experience (Steam). |
-
----
-
-### 📊 Runtime Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valinerosgordov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valinerosgordov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,40,50&height=280&section=header&text=Vitaly%20Gordov&fontSize=80&fontAlignY=35&desc=Architecting%20XR%20Realities%20%26%20Intelligent%20Systems&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Valinerosgordov&theme=tokyonight&hide_border=true&background=0d1117" height="120" alt="Streak"/>
-</div>
 
----
+  ### 🚀 About Me
+  
+  I am a multidisciplinary engineer bridging the gap between **Virtual Worlds (XR)** and **Complex Backend Systems (.NET)**.  
+  Currently focused on building **AI-driven desktop assistants** and **High-frequency trading algorithms**.
 
-<div align="center">
+  ---
+
+  ### 🛠 Tech Ecosystem
+
+  <p>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Unity_XR-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/WPF_UI-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MetaTrader_5-000000?style=for-the-badge&logo=metatrader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white"/>
+  </p>
+
+  ---
+
+  ### ⚡ Featured Projects
+
+  | **Project** | **Category** | **Description** |
+  | :--- | :---: | :--- |
+  | **🤖 NexusAI** | `.NET / AI` | **Personal Desktop OS** with local LLM & RAG integration. |
+  | **📈 FinMarket Sync** | `FinTech` | Arbitrage system connecting **MT5** & **TradingView**. |
+  | **⚔️ VR Fantasy** | `XR / Game` | Immersive combat experience on **Steam**. |
+  | **🕶️ Oculus Sim** | `XR / Training` | Enterprise training simulator for VR. |
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Valinerosgordov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valinerosgordov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160"/>
+
+  <br>
+  <br>
+
   <a href="https://steamcommunity.com/id/vitalycarli/">
-    <img src="https://img.shields.io/badge/Connect_on_Steam-171a21?style=for-the-badge&logo=steam&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
-</div>
+  <a href="https://github.com/Valinerosgordov">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,40,50&height=100&section=footer" width="100%"/>
+
+</div>
