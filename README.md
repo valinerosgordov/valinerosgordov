@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,100:A970FF&height=220&section=header&text=Valiner%20Osgordov&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20•%20.NET%20%26%20C%23%20•%20Desktop%20•%20AI%20•%20XR&descSize=16&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,100:A970FF&height=220&section=header&text=Valiner%20Osgordov&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20%26%20C%23%20%7C%20Desktop%20%7C%20AI%20%7C%20XR&descSize=16&descAlignY=55&animation=fadeIn)
 
 [![GitHub](https://img.shields.io/badge/GitHub-valinerosgordov-181717?style=flat-square&logo=github)](https://github.com/valinerosgordov)
 [![Steam](https://img.shields.io/badge/Steam-Profile-171a21?style=flat-square&logo=steam)](https://steamcommunity.com/id/valinerosgordov/)
