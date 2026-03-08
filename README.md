@@ -12,7 +12,7 @@
 
 ## About
 
-**6+ years** building software — from **XR hackathon wins** to **production desktop apps**
+**9+ years** building software — from **XR hackathon wins** to **production desktop apps**
 
 🔹 High-performance **.NET 10** applications with **WPF** and **EF Core**
 🔹 **AI-powered tools** with RAG, local LLMs, and knowledge graphs
