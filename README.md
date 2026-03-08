@@ -12,23 +12,12 @@
 
 ## About
 
-</div>
+**6+ years** building software — from **XR hackathon wins** to **production desktop apps**
 
-```csharp
-var me = new Developer
-{
-    Name       = "Valiner Osgordov",
-    Experience = "6+ years",
-    Stack      = new[] { ".NET 10", "WPF", "EF Core", "Unity", "C# 13" },
-    Focus      = new[] { "Desktop Apps", "AI Tools", "Extended Reality" },
-    Motto      = "Ship polished software that works offline and feels native"
-};
-```
-
-<div align="center">
-
-I build **high-performance desktop applications** with modern .NET.
-Started in **XR** (VR/AR/MR) — won multiple international hackathons — and evolved into crafting **AI-powered tools** and **productivity software** with local-first architecture.
+🔹 High-performance **.NET 10** applications with **WPF** and **EF Core**
+🔹 **AI-powered tools** with RAG, local LLMs, and knowledge graphs
+🔹 **5x international hackathon winner** in AR/VR/MR
+🔹 Local-first architecture — your data stays on your machine
 
 </div>
 
