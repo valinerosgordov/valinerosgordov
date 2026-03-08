@@ -1,9 +1,11 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,100:A970FF&height=220&section=header&text=Valiner%20Osgordov&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20%26%20C%23%20%7C%20Desktop%20%E2%80%A2%20AI%20%E2%80%A2%20XR&descSize=16&descAlignY=55&animation=fadeIn)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,100:A970FF&height=220&section=header&text=Valiner%20Osgordov&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20.NET%20%26%20C%23%20%E2%80%A2%20Desktop%20%E2%80%A2%20AI%20%E2%80%A2%20XR&descSize=16&descAlignY=55&animation=fadeIn" alt="Header" width="100%"/>
 
-  [![GitHub](https://img.shields.io/badge/GitHub-valinerosgordov-181717?style=flat-square&logo=github)](https://github.com/valinerosgordov)
-  [![Steam](https://img.shields.io/badge/Steam-Profile-171a21?style=flat-square&logo=steam)](https://steamcommunity.com/id/valinerosgordov/)
+  <br>
+
+  <a href="https://github.com/valinerosgordov"><img src="https://img.shields.io/badge/GitHub-valinerosgordov-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+  <a href="https://steamcommunity.com/id/valinerosgordov/"><img src="https://img.shields.io/badge/Steam-Profile-171a21?style=flat-square&logo=steam" alt="Steam"/></a>
 
 </div>
 
@@ -31,40 +33,39 @@ Started in **XR** (VR/AR/MR) — won multiple international hackathons — and e
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="20"/> Daily Planner
+### Daily Planner
 
 **Beautiful weekly planner for Windows**
 
 <a href="https://github.com/valinerosgordov/DailyPlanner">
-  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WPF_UI-7C5CFC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/WPF_UI-7C5CFC?style=flat-square" alt="WPF"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
 </a>
 
-Tasks & subtasks, meetings, habits, Pomodoro timer, drag & drop, statistics, Excel export, reminders, 9 color themes, 4 languages, auto-updates
+Tasks, subtasks, meetings, habits, Pomodoro timer, drag and drop, statistics, Excel export, reminders, 9 color themes, 4 languages, auto-updates
 
 <a href="https://github.com/valinerosgordov/DailyPlanner/releases/latest">
-  <img src="https://img.shields.io/github/v/release/valinerosgordov/DailyPlanner?style=flat-square&color=7C5CFC&label=download"/>
+  <img src="https://img.shields.io/github/v/release/valinerosgordov/DailyPlanner?style=flat-square&color=7C5CFC&label=download" alt="Download"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20"/> NexusAI
+### NexusAI
 
 **AI research assistant for your documents**
 
 <a href="https://github.com/valinerosgordov/NexusAI">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-412991?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"/>
-  <img src="https://github.com/valinerosgordov/NexusAI/stargazers">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/RAG-412991?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian"/>
 </a>
 
-Multi-provider LLM support (Gemini/Ollama), knowledge graph, PDF parsing, artifacts generation, Obsidian integration
+Multi-provider LLM support (Gemini, Ollama), knowledge graph, PDF parsing, artifacts generation, Obsidian integration
 
 <a href="https://github.com/valinerosgordov/NexusAI">
-  <img src="https://img.shields.io/github/stars/valinerosgordov/NexusAI?style=flat-square&color=A970FF&label=stars"/>
+  <img src="https://img.shields.io/github/stars/valinerosgordov/NexusAI?style=flat-square&color=A970FF&label=stars" alt="Stars"/>
 </a>
 
 </td>
@@ -72,31 +73,31 @@ Multi-provider LLM support (Gemini/Ollama), knowledge graph, PDF parsing, artifa
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20"/> .NET Mastery Hub
+### .NET Mastery Hub
 
 **Comprehensive .NET knowledge base**
 
 <a href="https://github.com/valinerosgordov/NET-Mastery-Hub">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Knowledge_Base-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Knowledge_Base-blue?style=flat-square" alt="KB"/>
 </a>
 
 From C# fundamentals to architectural patterns, SOLID, async programming, performance optimization, and interview prep
 
 <a href="https://github.com/valinerosgordov/NET-Mastery-Hub">
-  <img src="https://img.shields.io/github/stars/valinerosgordov/NET-Mastery-Hub?style=flat-square&color=A970FF&label=stars"/>
+  <img src="https://img.shields.io/github/stars/valinerosgordov/NET-Mastery-Hub?style=flat-square&color=A970FF&label=stars" alt="Stars"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Joystick.png" width="20"/> XR Portfolio
+### XR Portfolio
 
 **Extended Reality projects**
 
-<img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/AR%2FVR%2FMR-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=oculus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
+<img src="https://img.shields.io/badge/AR%2FVR%2FMR-FF6F00?style=flat-square" alt="XR"/>
+<img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=oculus&logoColor=white" alt="Oculus"/>
 
 AR mobile games, VR optimization toolkits, WebGL AR libraries — built during hackathon competitions across UK and Russia
 
@@ -109,9 +110,7 @@ AR mobile games, VR optimization toolkits, WebGL AR libraries — built during h
 ## Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlite,unity,git,github,docker&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlite,unity,git,github,docker&theme=dark" alt="Tech Stack"/>
 </div>
 
 <details>
@@ -151,22 +150,17 @@ AR mobile games, VR optimization toolkits, WebGL AR libraries — built during h
 ## Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=valinerosgordov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&icon_color=A970FF&title_color=A970FF"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=valinerosgordov&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=valinerosgordov&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A970FF"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valinerosgordov&layout=compact&hide_border=true" height="160" alt="Top Languages"/>
-  </picture>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=valinerosgordov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&icon_color=A970FF&title_color=A970FF" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=valinerosgordov&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A970FF" height="160" alt="Top Languages"/>
 </div>
 
+<br>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=valinerosgordov&theme=tokyonight&hide_border=true&background=00000000&ring=A970FF&fire=A970FF&currStreakLabel=A970FF"/>
-    <img src="https://streak-stats.demolab.com?user=valinerosgordov&hide_border=true" height="130" alt="Streak"/>
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=valinerosgordov&theme=tokyonight&hide_border=true&background=00000000&ring=A970FF&fire=A970FF&currStreakLabel=A970FF" height="130" alt="Streak"/>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=valinerosgordov&theme=tokyo-night&hide_border=true&bg_color=00000000&color=A970FF&line=7C5CFC&point=ffffff&area=true&area_color=7C5CFC" width="95%" alt="Activity Graph"/>
@@ -174,4 +168,6 @@ AR mobile games, VR optimization toolkits, WebGL AR libraries — built during h
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,100:A970FF&height=100&section=footer)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,100:A970FF&height=100&section=footer" alt="Footer" width="100%"/>
+</div>
