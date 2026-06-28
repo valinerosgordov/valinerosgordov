@@ -43,21 +43,6 @@ Excel export, reminders, 9 color themes, 4 languages, auto-updates via Velopack
 
 <div align="center">
 
-### 🤖 [NexusAI](https://github.com/valinerosgordov/NexusAI) — AI research assistant for your documents
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-[![Stars](https://img.shields.io/github/stars/valinerosgordov/NexusAI?style=flat-square&color=A970FF)](https://github.com/valinerosgordov/NexusAI)
-
-Multi-provider LLM support (Gemini, Ollama), knowledge graph, PDF parsing, artifacts generation, Obsidian integration
-
-</div>
-
----
-
-<div align="center">
-
 ### 📚 [.NET Mastery Hub](https://github.com/valinerosgordov/NET-Mastery-Hub) — Comprehensive .NET knowledge base
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
