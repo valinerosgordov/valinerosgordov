@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+  <title id="title">Valiner Osgordov — Software Engineer</title>
+  <desc id="desc">C# and .NET, Desktop, AI, and XR. A dark violet banner with a Git branch illustration.</desc>
+  <rect x="1" y="1" width="998" height="228" rx="22" fill="#19152c" stroke="#39304e" />
+  <rect x="48" y="48" width="4" height="132" rx="2" fill="#a78bfa" />
+  <g>
+    <text x="76" y="66" fill="#b4a0dd" font-family="sans-serif" font-size="13" font-weight="600" letter-spacing="3">SOFTWARE ENGINEER</text>
+    <text x="74" y="121" fill="#f5f3ff" font-family="sans-serif" font-size="44" font-weight="700">Valiner Osgordov</text>
+    <text x="76" y="160" fill="#c4b5fd" font-family="sans-serif" font-size="20">C# / .NET &#183; Desktop &#183; AI &#183; XR</text>
+  </g>
+  <g fill="none" stroke="#7c3aed" stroke-width="3">
+    <path d="M804 56v118" />
+    <path d="M804 144c0-48 76-18 76-66V56" />
+    <path d="M880 78c0 48 52 18 52 66v30" opacity="0.35" />
+  </g>
+  <g fill="#19152c" stroke="#c4b5fd" stroke-width="3">
+    <circle cx="804" cy="56" r="9" />
+    <circle cx="804" cy="174" r="9" />
+    <circle cx="880" cy="56" r="9" />
+    <circle cx="932" cy="174" r="9" opacity="0.4" />
+  </g>
+</svg>
