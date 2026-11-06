@@ -105,6 +105,22 @@ AR mobile games, VR optimization toolkits, WebGL AR libraries — built during h
 
 ---
 
+<!-- activity-koi -->
+<div align="center">
+
+## Activity Koi
+
+<a href="https://github.com/yalongwastaken/git-koi">
+  <img src="koi/koi.gif" width="256" alt="A pixel-art koi shaped by my public GitHub activity" />
+</a>
+
+<sub>My public GitHub activity, swimming in pixels. Updated daily with <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>.</sub>
+
+</div>
+<!-- /activity-koi -->
+
+---
+
 <div align="center">
 
 ## Stats
